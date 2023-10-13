@@ -477,3 +477,5 @@ $RECYCLE.BIN/
 *.lnk
 API/appsettings.json
 .editorconfig
+client/ssl/localhost-key.pem
+client/ssl/localhost.pem
